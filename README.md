@@ -1,5 +1,5 @@
 # Matrix Flatten
-Flat 3D matrix to a 1D vecFtor.
+Flat 3D matrix to a 1D vector.
 
 
 ## What is that?
